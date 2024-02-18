@@ -2,6 +2,7 @@
 
 ## This the basic View of site
 ![image](https://github.com/MihirDadhich/video-player/assets/68670644/026c9221-4e53-4571-a436-4fddbbb6812a)
+![image](https://github.com/MihirDadhich/video-player/assets/68670644/46d4e96e-ce0e-4bab-bb60-5b2e1a375bba)
 
 
 Implement a video player with essential functionalities,
