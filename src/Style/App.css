@@ -1,0 +1,44 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.container {
+    background: linear-gradient(to right, rgb(236, 151, 67), rgb(198, 60, 177));
+    min-height: 100vh;
+  }
+  
+
+/* Media query for larger screens (adjust the values as needed) */
+@media (min-width: 768px) {
+  .container {
+    padding-left: 1cm;
+    padding-right: 1cm;
+  }
+}
+
+/* Media query for smaller screens (adjust the values as needed) */
+@media (max-width: 767px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+  
+
+  .headingpng{
+    padding-left: 8px;
+    max-width: 70px; /* Make sure the image doesn't exceed its container */
+    height: auto; /* Maintain the image aspect ratio */ 
+  }
+
+
+  .Heading {
+    background-color: transparent;
+    color: rgb(14, 6, 32);
+    width: 100%;
+    display: flex;/* Center the text */
+    font-family: cursive;
+    font-size: 2em;
+    font-weight: 600;
+    padding: 2rem;
+  }
