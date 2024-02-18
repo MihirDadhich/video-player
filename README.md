@@ -23,7 +23,7 @@ Implement a video player with essential functionalities,
 4. Videos should continue playing from where users left-off.
 
 
-## We can Start this app in developer mode
+## How to run this project locally
 
 ### `npm git pull`
 
